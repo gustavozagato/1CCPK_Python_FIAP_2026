@@ -11,4 +11,4 @@ print(f'{dia}/{mes}/{ano}')
 #desafio 3
 num1 = int(input('Digite um número: '))
 num2 = int(input('Digite outro número: '))
-print(num1 + num2)
+print(f'a soma é {num1} + {num2})
